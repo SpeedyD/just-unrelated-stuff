@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Homepage: https://sp-website.net
+! Homepage: https://github.com/SpeedyD/just-unrelated-stuff
 ! Title: Speedy's Personal List
 ! Expires: Never
-! Version: 1
+! Version: 2
 ! Last modified: 3 Feb 2022
 !
 !
