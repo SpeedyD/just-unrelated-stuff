@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/SpeedyD/just-unrelated-stuff
 ! Title: Speedy's Personal List
 ! Expires: Never
-! Version: 2
+! Version: 3
 ! Last modified: 3 Feb 2022
 !
 !
@@ -11,5 +11,6 @@
 ||onlinecasinoground.nl^
 ||casinoscout.nl^
 ||vgjdxwdyygreva.com^
+||etoro.com^
 !
 !
